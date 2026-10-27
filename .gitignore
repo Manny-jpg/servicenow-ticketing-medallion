@@ -1,0 +1,9 @@
+.ipynb_checkpoints/
+__pycache__/
+*.pyc
+.env
+.venv/
+spark-warehouse/
+metastore_db/
+derby.log
+.DS_Store

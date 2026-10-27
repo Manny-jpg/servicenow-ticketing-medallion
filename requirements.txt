@@ -1,0 +1,6 @@
+# Only needed if you want to explore the sample data / notebook locally.
+# In Microsoft Fabric, Spark is provided by the runtime.
+pyspark>=3.5
+pandas>=2.0
+holidays>=0.50
+jupyter
